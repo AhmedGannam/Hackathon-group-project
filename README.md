@@ -3,7 +3,7 @@
 
 ![Home Page](./screenshots/homePage.jpg) 
 
-> **Note**: This project was developed during a 48-hour hackathon by first-year students. 🎓 While we're proud of what we've built, please expect bugs, incomplete features, and suboptimal code practices. We're learning! 🙏
+> **Note**: This project was developed during a 24-hour hackathon period by first-year students. 🎓 While we're proud of what we've built, please expect bugs, incomplete features, and suboptimal code practices. We're learning! 🙏
 
 ## 📌 Table of Contents
 - [Features](#-features)
@@ -47,7 +47,6 @@
 
 ## 🐛 Known Issues
 As beginners, we’re aware of several problems:  
-⚠ *Authentication*: Token refresh sometimes fails  
 ⚠ *3D Performance*: Lag on low-end devices  
 ⚠ *AI Responses*: Occasional timeouts under heavy load  
 ⚠ *Mobile UI*: Layout breaks on small screens  
