@@ -3,7 +3,7 @@
 
 ![Home Page](./screenshots/homePage.jpg) 
 
-> **Note**: This project was developed during a 24-hour hackathon period by first-year students. 🎓 While we're proud of what we've built, please expect bugs, incomplete features, and suboptimal code practices. We're learning! 🙏
+> **Note**: This project was developed during a 24-hour hackathon period by first-year students. 🎓 While we're proud of what we've built, please expect bugs, incomplete features, and suboptimal code practices. We're learning! 
 
 ## 📌 Table of Contents
 - [Features](#-features)
@@ -51,7 +51,6 @@ As beginners, we’re aware of several problems:
 ⚠ *AI Responses*: Occasional timeouts under heavy load  
 ⚠ *Mobile UI*: Layout breaks on small screens  
 
-*We welcome patient contributors!* 🙌  
 
 ## 📸 Some  Screenshots
 
@@ -61,5 +60,4 @@ As beginners, we’re aware of several problems:
    ### Quiz Page
    ![Quiz page interface](./screenshots/Quizpage.jpg)
 
-🙏 Thank you for exploring our project!
-💡 Your curiosity fuels our journey as learners—we welcome feedback and kindness!
+ 
